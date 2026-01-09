@@ -1,2 +1,4 @@
 # Karacsonyfa
-Ez a Karácsonyfa rajzoló programom oldala, ha bugot találsz itt jelentheted 
+Ez a Karácsonyfa rajzoló programom oldala, ha bugot találsz itt jelentheted.
+A csapatom tagja én és Áron
+YT csati https://www.youtube.com/@kockasirszekely
